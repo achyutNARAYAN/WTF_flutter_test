@@ -1,0 +1,15 @@
+name: wtf_shared
+description: Shared models and services for the WTF Flutter apps.
+publish_to: 'none'
+
+environment:
+  sdk: ^3.11.5
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.5.5
+  uuid: ^4.5.3
+
+dev_dependencies:
+  flutter_lints: ^6.0.0

@@ -1,0 +1,12 @@
+# Dart / Flutter generated files
+.dart_tool/
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+coverage/
+
+# IDE / OS noise
+.idea/
+*.iml
+.DS_Store

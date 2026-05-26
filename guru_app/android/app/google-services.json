@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "602961898702",
+    "project_id": "wtf-flutter-test-52880",
+    "storage_bucket": "wtf-flutter-test-52880.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602961898702:android:bb008c6c34e153468d349f",
+        "android_client_info": {
+          "package_name": "com.example.guru_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh6Fx4D8vSfdW-AndpsS_9RuyR0rT1NoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
