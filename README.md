@@ -46,8 +46,8 @@ C:\flutter\bin\cache\dart-sdk\bin\dart.exe --suppress-analytics analyze trainer_
 1. Start `token_server`.
 2. Launch Guru App, onboard DK, and open Chat.
 3. Launch Trainer App, login as Aarav, and open Chats.
-4. DK sends a message; Aarav sees it after local polling and replies.
-5. DK schedules a call; Aarav approves from Requests.
+4. DK sends a message Aarav sees it after local polling and replies.
+5. DK schedules a call Aarav approves from Requests.
 6. Both see the approved call and can enter the 100ms pre-join/call UI.
 7. End the call and review Sessions.
 
